@@ -2,7 +2,7 @@
 
 This repository contains code for the **Efficient Sparse Tensor Contraction** 
 
-The code is not a stable release; it may evolve over time.
+This is not a stable release; the code may evolve.
 
 ### Contact
 
